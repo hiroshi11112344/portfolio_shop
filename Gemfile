@@ -65,4 +65,4 @@ gem 'pundit'       # 権限管理
 
 gem 'stripe'       # 支払い処理 (Stripe)
 
-gem 'administrate' # 管理画面
+gem 'administrate' # 管理画面q
